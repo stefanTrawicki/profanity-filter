@@ -43,10 +43,10 @@ def main():
     if args.show or args.output_file:
         return
 
-    if pf.is_clean(text):
-        print("This text is clean.")
-    else:
+    if pf.is_profane(text):
         print("This text is not clean!")
+        exit(1)
+    print("This text is clean.")
 
 
 if __name__ == '__main__':
