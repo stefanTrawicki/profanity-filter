@@ -3,6 +3,9 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/profanity-filter.svg)
 [![PyPI](https://img.shields.io/pypi/v/profanity-filter.svg)](https://pypi.org/project/profanity-filter/)
 
+## Archived
+This library is no longer a priority for me. Feel free to fork it.
+
 ## Table of contents
 <!--ts-->
    * [profanity-filter: A Python library for detecting and filtering profanity](#profanity-filter-a-python-library-for-detecting-and-filtering-profanity)
