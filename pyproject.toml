@@ -20,7 +20,7 @@ classifiers = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = ">=3.8"
 spacy = "^2.0"
 ordered-set = "^3.0"
 cached-property = "^1.5"
